@@ -4,4 +4,4 @@ title: Home
 description: Homepage
 ---
 
-# Wilkommen
+# Willkommen
