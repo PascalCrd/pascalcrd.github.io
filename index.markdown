@@ -4,7 +4,13 @@ title: Home
 description: Homepage
 ---
 
-#Work in progress
+Work in progress
 
-#©Pascal Curda 2024
+
+
+
+
+
+
+©Pascal Curda 2024
 
